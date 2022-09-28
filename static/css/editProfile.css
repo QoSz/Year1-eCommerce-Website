@@ -1,0 +1,20 @@
+#title {
+	margin-top: -20px;
+}
+
+html {
+	background-color: #242429;
+}
+
+.container-fluid {
+	background-color: #242429;
+}
+
+h2 {
+	color: white;
+}
+
+p {
+    color: white;
+    font-weight: bold;
+}

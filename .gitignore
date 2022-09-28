@@ -1,0 +1,5 @@
+query.py
+*.pyc
+venv/
+.idea/
+__pycache__

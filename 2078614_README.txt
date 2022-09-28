@@ -1,0 +1,66 @@
+CM1102 - Online Shop Coursework.
+
+This is submission of student 2078614
+
+1. URL of my website: http://cm1102eshop-cm1102cweshop.apps.cs.cf.ac.uk/  (If this link doesn't work use the one below.)
+   URL of my website Second Link: https://yashshahcw.herokuapp.com/
+
+2. Admin login details:
+
+- Admin username: yashshah1282@gmail.com	
+- Admin password: ahky1234
+
+3. Individual Responsibilities: Creating an E-Commerce Website
+
+
+  1. Student number: 2078614
+  2. Email address: shahy5@cardiff.ac.uk
+  
+
+4. Full (40 characters) CHECKSUM of my last commit on GitLab : d2a17778d7ca006ba3b8609aa2a71046b627618c
+
+Extra information:
+The link below can be used to add more products onto the website.
+http://cm1102eshop-cm1102cweshop.apps.cs.cf.ac.uk/add (Use the link below if this one doesn't work)
+https://yashshahcw.herokuapp.com/add
+
+The link below can be used to remove products from the website.
+http://cm1102eshop-cm1102cweshop.apps.cs.cf.ac.uk/remove (Use the link below if this one doesn't work)
+https://yashshahcw.herokuapp.com/remove
+
+
+
+List of References:
+
+Contributors, B. 2021. Introduction. Available at: 
+https://getbootstrap.com/docs/5.0/getting-started/introduction/ [Accessed: 14 May 2021].
+
+Mark Otto, a. 2021. Containers. Available at: 
+https://getbootstrap.com/docs/5.0/layout/containers/#fluid-containers [Accessed: 14 May 2021].
+
+Contributors, B. 2021. Buttons. Available at: 
+https://getbootstrap.com/docs/5.0/components/buttons/ [Accessed: 14 May 2021].
+
+Garg, N. 2018. Password Matching using JavaScript - GeeksforGeeks. Available at: 
+https://www.geeksforgeeks.org/password-matching-using-javascript/ [Accessed: 14 May 2021].
+
+Tutorials, O. 2019. Creative Page Scroll Progress Bar | Html CSS & jQuery. Available at: 
+https://www.youtube.com/watch?v=5esbQmw-SA0&list=WL&index=55&t=99s [Accessed: 14 May 2021].
+
+Otto, M. 2021. Dropdowns. Available at: 
+https://getbootstrap.com/docs/5.0/components/dropdowns/ [Accessed: 14 May 2021].
+
+JavaScript : Credit Card Number validation - w3resource. 2020. Available at: 
+https://www.w3resource.com/javascript/form/credit-card-validation.php [Accessed: 14 May 2021].
+
+Reference List Fish, D. 2020. How to Create a Database in Python using sqlite3 - Data to Fish. Available at: 
+https://datatofish.com/create-database-python-using-sqlite3/ [Accessed: 14 May 2021].
+
+Hule, V. 2021. Available at: 
+https://pynative.com/python-sqlite/ [Accessed: 17 May 2021]. 
+
+Kinsley, H. 2021. Python Programming Tutorials. Available at: 
+https://pythonprogramming.net/password-hashing-flask-tutorial/ [Accessed: 17May 2021]. 
+
+SQLite Python: Inserting Data. 2021. Available at: 
+https://www.sqlitetutorial.net/sqlite-python/insert/ [Accessed: 17 May 2021].
